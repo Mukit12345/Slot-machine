@@ -1,1 +1,1 @@
-# Slot-machine
+# Slot-machine in JS
